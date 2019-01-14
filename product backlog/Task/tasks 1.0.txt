@@ -1,0 +1,20 @@
+U1: User is able to login with username and password in the login page
+	T1: create backend database to store username password		Points: 5
+	T2: Create UI for login page(2 input box and a login button)	Points: 3
+	T3: Connecting UI with backend					Points: 2
+
+U2: User is able to view all clients
+	T4: Grab data from backend 					Points: 1
+	T5: UI								Points: 3 
+	T6: Connecting Ui with backend					Points: 2
+
+U3: User is able to upload excel file to database
+	T7: Create File upload buttonPoints				Points: 2
+	T8: Reading and extracting data from excel file 		Points: 5
+	T9: Pushing data to database					Points: 2
+
+U4: user is able to sort clients
+	T10:
+	
+U5: User is able to click on client and view all information of client
+	T11:  

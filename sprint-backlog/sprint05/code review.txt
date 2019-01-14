@@ -1,0 +1,22 @@
+Code Review Strategy:
+Our strategy of reviewing is to look into the code of all other members and try to identify any improvements or flaws within the code.
+Things to look for: - efficiency of code
+                    - clarity and organized structure of code
+                    - comments if nessary
+                    - valid variable names
+
+Code Review Summary:
+Nathan Chau
+filterdata: Overall looks well formated and comments on all functions.
+
+Jikai Long
+filterdata: Code are split up and formated to have a clean look on the code.
+
+Tanaan Karunakaran:
+datauploader: Code is well commented and is easy to read. The way it was coded makes sense.
+
+Chenkai Lin
+datauploader: Naming are easy to understand.
+
+Hugh Ding
+datauploader: formated and comments on fuctions. Much more readable than previous comments. Overall very well done.

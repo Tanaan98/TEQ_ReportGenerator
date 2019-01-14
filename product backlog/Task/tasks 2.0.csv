@@ -1,0 +1,23 @@
+U1,User is able to login with username and password in the login page,
+Task,Description,Story Points
+T1,Create backend database to store username password,5
+T2,Create UI for login page(2 input box and a login button),3
+T3,Connecting UI with backend,2
+,,
+U2,User is able to upload excel file to database,
+Task,Description,Story Points
+T4,Create File upload buttonPoints,2
+T5,Reading and extracting data from excel file into a json file,5
+T6,Pushing data to database,2
+,,
+U3,Format uploaded data,
+Task,Description,Story Points
+T7,Format the raw json data uploaded by user to be more structures and organized,5
+T8,Handle inconsistencies of formating by creating an object that has all the default values that each attribute should be and then comparing the object with the data in json.,3
+T9,Handle duplicates by checking if an id of the row exists. If so update the row,3
+,,
+U4,Display data on the screen,
+T10,Display data on the screen,5
+,,
+U5,Export data into an data sheet,
+T11,Exporting all data,5

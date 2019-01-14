@@ -1,0 +1,28 @@
+.testimonial-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+  display: block;
+  text-align: left;
+}
+.testimonial-group > .row > .col-xs-4 {
+  display: inline-block;
+  text-align: left;
+}
+
+.dataTable {
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.tableRows {
+  background: white;
+}
+
+.tableTitle {
+  font-size: 25px;
+}
+
+.tableHeader {
+  color: silver;
+  background: #39344a;
+}

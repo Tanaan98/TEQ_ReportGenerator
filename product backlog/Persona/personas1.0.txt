@@ -1,0 +1,50 @@
+Andrew
+- 45 years old, male
+- Born and raised in Canada
+- Studied Business and received his BBA at York University
+- Reads and speaks fluent English and French, and can read and speak a bit of Spanish
+- Strong technical skills. Proficient with Microsoft Office, and familiar with other modern technologies
+- Knows how to use smart devices, and can Google for a solution if he is stuck
+- Uses an iphone 8 and a lenovo laptop for personal use
+- Works at TEQ as a general manager
+- Usually works with paper and pen but has a computer available to use
+- Usually prefers to do things by hand but does not mind if it can be done quicker with an application
+- He hates that it is impossible to get all the statistics of the agencies and clients
+- Responsible for discussing information, issues, and policies with top and bottom management, and helps lower management by providing guidance
+- Some of his tasks include monitoring his employees, resolving issues with team members, and creating effective plans to achieve a certain goal
+
+Bob
+- 25 years old, male
+- Born in Canada to Japanese heritage
+- Studied Statistics at Queens university
+- Fluent in English and Japanese
+- Familiar with common electronic devices like Blu-Ray and remote controlled aircraft
+- Uses an Android phone and has a desktop at home 
+- Eager to try new technologies and interesting applications
+- Strong technical skills and highly proficient with computers
+- Has programming experience in SQL, MATLAB, and R
+- Works at a health service agency as a health statistics analyst where he uses a computer to upload, merge, and update client health information in a consistent manner
+
+Christy
+- 37 years old, female
+- Born in Russia and immigrated to Canada 10 years ago
+- Minimal English, fluent in Russian
+- Uses an old Samsung phone
+- Able to use the computer for basic tasks like online shopping, sending and receiving email, and browsing news sites
+- Most of her activities involve internet browsers; she only has basic technical skills with office applications like Excel and Word
+- Employee of an employment agency company for immigrants and refugees
+- Her task is to search for jobs that are suitable for clients, which generally consists of interviewing clients in person, contacting their potential employers directly, and filling out associated paperwork
+- Does not format her reports completely consistently and occasionally makes mistakes when creating spreadsheets because she enters everything manually
+- Doesn’t mind learning to use new applications if they are easy to use and can work with the click of a few buttons
+
+Dody
+- 22 years old, female
+- Italian international student with the co-op program at McMaster University
+- Speaks English and Italian
+- Owns an Iphone X and macbook
+- Basic computer knowledge, but prefers using her smartphone and Ipad, which have touch screens
+- Works at TEQ as a co-op student
+- Has an old computer used for general tasks at work
+- Helps to register clients through both electronic and paper forms and clean/aggregate information
+- Feels that her work can be done easily with a suitable application
+

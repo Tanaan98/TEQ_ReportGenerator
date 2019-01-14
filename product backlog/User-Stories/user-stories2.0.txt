@@ -1,0 +1,24 @@
+﻿Highest Priority
+1. As Andrew, a manager in TEQ, I want to be able to log into my account with a unique username and securely stored password so that I can privately access data related to my customers and employees.
+2. As Bob, an employee in an angency, I want to be able to upload an Excel file and have all data added to the new system with a consistent structure so that I don't need to manually update information piece by piece.
+3. As Christy, an employee in TEQ, I want the system to be able to gracefully handle minor inconsistencies in formatting  and duplications so that it is able to deal with my hand-made spreadsheets.
+4. As Christy, a employee in TEQ, I want to be able to see the data laid out clearly from the interface so that I don't need to check different places and figure out how everything is displayed.
+5. As Andrew, a manager in TEQ, I want to be able export filtered data, so that it can be transfered and kept locally in other places.
+6. As Bob, a general employee, I want to be able to search for people I need from database using an id so that I can get a job matched to them as soon as possible
+7. As Andrew, a manager, I want to be able to sort the customers based on various parameters (common issues people face, how often people use a TEQ service, etc.) so that I can see who needs the most help, and make my team focus on the bigger issues rather than the smaller ones.
+
+
+Medium Priority
+8. As Bob, a general employee, I want to be able to systematically update a customer’s information so that I can keep it up to date.
+9. As Bob, a general employee, I want to be able to filter and perform basic statistics operations on the data so that I can analyze the data through various angles.
+10. As Bob, a general employee, I want to be able to create graphs based on existing information so that I can analyze the results. (For example, see how often a result is used).
+11. As Dody, a co-op student, I want to be able to add new clients to the system directly so that I do not need to go through Excel files.
+12. As Dody, a co-op student, I want to be able to merge records based on individual clients directly through the system so that I can get an overview of who is registered for what.
+13. As Bob, a general employee, I want to be able to undo changes I made to the application so that I can avoid making unfixable mistakes (e.g. a version control system).
+
+Low Priority
+14. As Bob, a general employee, I want to be able to see if anyone has modified the data online to avoid false information that co-workers implement incorrectly by accident.
+15. As Andrew, a manager, I want to be able to see which employees are helping someone or working on something, so that I tell my team to help/prioritize customers who have bigger issues.
+16. As Christy, a general employee, I want to be able to do my work through web browser so that I don't have to switch between different local platforms constantly.
+17. As Dody, a co-op student, I want to be able to do some work on my Ipad so that I can finish jobs anywhere I want.
+18. As Dody, a co-op student, I want to be able to send structured data tables through the system directly via email to my supervisor so that I don't need to modify my table in Excel.

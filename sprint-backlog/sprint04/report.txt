@@ -1,0 +1,28 @@
+Q/A with Client
+
+1. 
+    Q: What type of operations would the company/users want to do? (example, edit information in a file,)
+    A: There are 3 types of users: Agencys and Participating Organizations, TEQ company, and UTSC Project staff. 
+    Each type of user will have different types of uses with the app.
+    
+    Agency and Participating Organzations: 
+    a) These users can only unload excel/csv files. This is the only action they can do.
+    As such, they will not be able to view the data once they upload a file or view anything else.
+    
+    TEQ Company: These users can do several actions.
+    a) Users can upload excel/csv files.
+    b) Can run querys of the collected data (example, how many people live in Scarbrough)
+    c) Create new accounts for new users (organizations and UTSC project staff). As such, giving restrictions to accounts.
+    d) Adding or modifying existing excel templates.
+    e) Be able to generate reports based on information in the excel files
+    
+    UTSC Project Staff: These users can do several actions
+    a) View the collected data.
+    b) Edit the code of the app so they can edit the code in the future if necessary.
+    c) See data about the project (very vague)
+    d) Perform analysis based on the information in system (very vague)
+    
+2.
+    Q: What would be displayed when searching, like searching?
+    A: The rows of the matched data. For example, if I want all people that live in the city Scarbrough, I enter 
+    Scarbrough in the search field. This will give me all the rows that have people living in Scarbrough. 

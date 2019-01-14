@@ -1,0 +1,35 @@
+Code Review Strategy:
+Our strategy of reviewing is to look into the code of all other members and try to identify any improvements or flaws within the code.
+Things to look for: - efficiency of code
+                    - clarity and organized structure of code
+                    - comments if nessary
+                    - valid variable names
+
+Code Review Summary:
+Nathan Chau
+Back-End code:  - naming conventions could be more clear i.e camel notations
+                - well commented which brings clarity to the code
+                - code can be more consistent in spacing and alignments
+
+Jikai Long
+Front-End code: The front-end looks very clean since there are a lot of helper functions it makes the structure easier to understand 
+what is going on, but it does need comment on most functions. All variable names are clearly indicated and the interface looks nice.
+Login: The login code, still, need more comment for me to understand how variable gets picked by the input field. But overall, everything
+including database is declared in a simple way, pretty good quality.
+
+Tanaan Karunakaran:
+Back-End code: Code is well commented and is easy to read. The way it was coded makes sense. Most code in the back end is understandable
+and easy to comprehend.
+Front-End (Login): Some things are not commented. Some variable names are poorly choosen. It takes time to understand what exactly the
+code is doing. Even though the login looks nice, it will be slightly annoying to add-on to the UI.
+
+Chenkai Lin
+Front-end code: clear and easy to understand
+datauploader: naming maybe confuse developers, functions and variables should be more organizational. 
+
+Hugh Ding
+Back-end code: comments occasionally slightly misleading but otherwise well done; well organized; some inconsistency in naming conventions
+Front-end code: structured well but lacks comments
+
+Code Review Debrefing Meeting:
+https://www.youtube.com/watch?v=6kaiVVK8XF0

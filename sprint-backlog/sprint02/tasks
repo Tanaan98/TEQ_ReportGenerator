@@ -1,0 +1,31 @@
+U1: User is able to login with username and password in the login page
+	T1: create backend database to store username password		Points: 5
+            We need to create a firebase which would have an authority 
+            functions. Also need to make the fire base perform user 
+            management
+
+	T2: Create UI for login page(2 input box and a login button)	Points: 3
+            Using Javascript, we will create a login page so that the user 
+            can connect to the application. And then using CSS, we 
+            will try and design the login page to make it look more nice.
+
+	T3: Connecting UI with backend					Points: 2
+            Dependency: T1
+            Using a basic login page, we want the user to be able to 
+            connect to the backend database and sign in, into the app
+
+
+ 
+
+U2: User is able to view all clients
+	T4: Grab data from backend 					Points: 1
+	T5: UI								Points: 3 
+	T6: Connecting Ui with backend					Points: 2
+
+U3: User is able to upload excel file to database
+	T7: Create File upload buttonPoints				Points: 2
+	T8: Reading and extracting data from excel file 		Points: 5
+	    Given a excel file, we want to be able to upload 
+	    the file and have our program extract the data 
+	    and store it in the correct format.
+	T9: Pushing data to database					Points: 2

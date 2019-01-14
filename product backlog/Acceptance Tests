@@ -1,0 +1,15 @@
+User Story 1:
+User can login by typing their username and password in the given textbox and click Continue to login into the web applications.
+
+User Story 2:
+User can upload a csv file by clicking on upload and choosing the cvs file with a set template.
+
+User Story 3:
+Data is automaticly formated and warns user if there are any empty sheets or duplcate data.
+
+User Story 4:
+After uploading the file, click on Display Data to have data displayed on the screen,
+or retreive data from the database by clicking on the Get Data with its' reference and click Display Data.
+
+User Story 5:
+Given the data is either uploaded or retreive from the database, user can click on Generate report and then Download to get a report of the data.
